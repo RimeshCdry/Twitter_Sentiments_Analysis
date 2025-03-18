@@ -3,10 +3,10 @@ import joblib
 
 
 # Load the model
-model = joblib.load('/Twitter_Sentiment_Analysis/user_interface/twitter_sentiment_analysis_model.pkl')
+model = joblib.load('twitter_sentiment_analysis_model.pkl')
  
 # Load the vectorizer
-vectorizer = joblib.load('/Twitter_Sentiment_Analysis/user_interface/vectorizer.pkl')
+vectorizer = joblib.load('vectorizer.pkl')
 
 # Title
 st.set_page_config(page_title=f"Twitter Sentiment Analysis", page_icon="twitter_pic.png")
