@@ -81,6 +81,6 @@ This project performs sentiment analysis on tweets using the **Support Vector Ma
 
 ## 👥 Contact
 For questions or feedback, feel free to reach out:
-  - GitHub: @RimeshCdry
+  - GitHub: [@RimeshCdry]
   - Email: rimeshcdry45@gmail.com
   - Linkedin: https://www.linkedin.com/in/rimesh-chaudhary-09a25a30a
